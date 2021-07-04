@@ -19,7 +19,7 @@
 > * Collection of all Vietnamese Light Novel translations available online.
 > * Facilitate Light Novel translation teams to share, promote and discuss their work.
 > * Helping readers access Light Novels intuitively through a specialized online reading system.
-
+>
 > Factors that make Light Novel Portal superior to other Light Novel sharing services:
 > * At LNP, speed comes first, the site uses its own server and has the ability to store all data, helping to access and display images faster with the best quality.
 > * The online reading interface is optimized with the function of increasing font size and line spacing, along with a bookmark system for users.
@@ -30,6 +30,7 @@
 > * Tập hợp toàn bộ bản dịch Light Novel Tiếng Việt có trên mạng.
 > * Tạo điều kiện cho các nhóm dịch Light Novel chia sẻ, quảng bá và thảo luận thành quả của họ.
 > * Giúp người đọc tiếp cận với Light Novel một cách trực quan thông qua hệ thống đọc online chuyên biệt.
+>
 > Những yếu tố giúp Cổng Light Novel ưu việt hơn những dịch vụ chia sẻ Light Novel khác:
 > * Ở CLN, tốc độ được đặt lên trên hết, trang sử dụng server riêng và có khả năng lưu trữ toàn bộ dữ liệu, giúp cho việc truy cập và hiển thị ảnh nhanh hơn với chất lượng tốt nhất.
 > * Giao diện đọc online được tối ưu hóa với chức năng tăng size font và giãn cách line, cùng với hệ thống bookmark cho người dùng.
