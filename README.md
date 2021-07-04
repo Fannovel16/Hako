@@ -42,7 +42,7 @@
 I don't have plan to upload this project on NPM yet, so cloning the repo on GitHub is the only way. <br/>
 Tôi chưa dự định đăng cái này lên NPM nên cách duy nhất để cài là clone repo.
 ```
-git clone https://github.com/puppeteer/puppeteer.git
+git clone https://github.com/Hacker17082006/Hako.git
 ```
 
 **Example/Ví dụ**
