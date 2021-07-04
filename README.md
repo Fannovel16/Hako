@@ -1,6 +1,7 @@
 # Hako
 
 > A RESTful API package for Light Novel Portal Hako (ln.hako.re/docln.net)
+
 > Một RESTful API package dành cho cổng Light Novel Hako (ln.hako.re/docln.net)
 
 **⚠️⚠️ This package can only run Node.js version 14.0.0+ due to [private class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) ⚠️⚠️**
@@ -18,6 +19,7 @@
 > * Collection of all Vietnamese Light Novel translations available online.
 > * Facilitate Light Novel translation teams to share, promote and discuss their work.
 > * Helping readers access Light Novels intuitively through a specialized online reading system.
+
 > Factors that make Light Novel Portal superior to other Light Novel sharing services:
 > * At LNP, speed comes first, the site uses its own server and has the ability to store all data, helping to access and display images faster with the best quality.
 > * The online reading interface is optimized with the function of increasing font size and line spacing, along with a bookmark system for users.
