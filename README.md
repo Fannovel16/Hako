@@ -10,7 +10,7 @@
 * [What is Hako/Hako là gì?](#hako-introduction) <br/>
 * [Getting Started](#start) <br/>
 * [Class Hako](#hako-class) <br/>
-** [new Hako(name, password)](#new-hako) <br/>
+  * [new Hako(name, password)](#new-hako) <br/>
 
 
 ## What is Hako? (Hako là gì?)
