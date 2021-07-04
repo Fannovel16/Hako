@@ -104,6 +104,7 @@ class Hako {
     series_types = ["translation", "original", "convert"]
     series = []
     async get_series(detail_info = true) {
+        this.clear_cache()
         for (const series_type of this.series_types) {
             const $ = cheerio.load(await this.#hako_action(`series/index?type=${series_type}`))
             const series_tr_arr = $("table tr").get().filter(el => $(el).attr("id"))
@@ -115,9 +116,6 @@ class Hako {
             }
         }
         return this.series
-    }
-    get_chapter_by_id(){
-
     }
 
 
