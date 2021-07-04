@@ -7,10 +7,10 @@
 **⚠️⚠️ This package can only run Node.js version 14.0.0+ due to [private class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) ⚠️⚠️**
 
 ## Table of Contents  
-[What is Hako/Hako là gì?)](#hako-introduction) <br/>
-[Getting Started](#start) <br/>
-[Class Hako](#hako-class) <br/>
-* [new Hako(name, password)](#new-hako) <br/>
+* [What is Hako/Hako là gì?](#hako-introduction) <br/>
+* [Getting Started](#start) <br/>
+* [Class Hako](#hako-class) <br/>
+** [new Hako(name, password)](#new-hako) <br/>
 
 
 ## What is Hako? (Hako là gì?)
