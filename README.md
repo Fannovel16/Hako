@@ -3,13 +3,13 @@
 > A RESTful API package for Light Novel Portal Hako (ln.hako.re/docln.net)
 > Một RESTful API package dành cho cổng Light Novel Hako (ln.hako.re/docln.net)
 
-** ⚠️⚠️ This package can only run Node.js version 14.0.0+ due to [private class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) ⚠️⚠️ **
+**⚠️⚠️ This package can only run Node.js version 14.0.0+ due to [private class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_class_fields) ⚠️⚠️**
 
 ## Table of Contents  
 [What is Hako/Hako là gì?)](#hako-introduction)
 [Getting Started](#start)
 [Class Hako](#hako-class)
-* new Hako(name, password) [#new-hako]
+* [new Hako(name, password)](#new-hako)
 
 
 ## What is Hako? (Hako là gì?)
@@ -36,12 +36,13 @@
 
 ## Getting Started
 <a name="start"></a>
-I don't have plan to upload this project on NPM yet, so cloning the repo on GitHub is the only way.
+I don't have plan to upload this project on NPM yet, so cloning the repo on GitHub is the only way. <br/>
 Tôi chưa dự định đăng cái này lên NPM nên cách duy nhất để cài là clone repo.
 ```
 git clone https://github.com/puppeteer/puppeteer.git
 ```
-** Example/Ví dụ **
+
+**Example/Ví dụ**
 ```
 const hako = new Hako(process.env.NAME, process.env.PASSWORD)
 await hako.login()
@@ -54,12 +55,12 @@ await trans_series[0].volumes[0].create_chapter({
 
 ## Class Hako
 <a name="hako-class"></a>
-Your start point. Each Hako object represent a Hako account and it functionality.
+Your start point. Each Hako object represent a Hako account and it functionality. <br/>
 Điểm khởi đầu của bạn. Mỗi object Hako tượng trưng cho một tài khoản Hako và các chức năng của nó.
 
 ### new Hako(name, password)
 <a name="new-hako"></a>
-Create a Hako object with name and password.
+Create a Hako object with name and password. <br/>
 Tạo một object Hako 
 ```
 new Hako(process.env.NAME, process.env.PASSWORD)
